@@ -1,5 +1,6 @@
 [phases.install]
 cmds = ["pip install -r requirements.txt"]
+onlyIncludeFiles = ["requirements.txt"]
 
 [phases.build]
 cmds = ["pip install --no-deps ."]
