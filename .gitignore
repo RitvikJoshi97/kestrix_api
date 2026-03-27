@@ -6,8 +6,9 @@ build/
 .venv/
 venv/
 .env
-*.npy
 outputs/
+data/
+*.npy
 .mypy_cache/
 .ruff_cache/
 .pytest_cache/
