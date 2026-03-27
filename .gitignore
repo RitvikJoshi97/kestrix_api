@@ -7,8 +7,6 @@ build/
 venv/
 .env
 *.npy
-thermal_images/
-thermal_temps/
 outputs/
 .mypy_cache/
 .ruff_cache/
